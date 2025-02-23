@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7mCzPckYTvvOEvmfQpnCbsTAaOw0BRDDtG4KeF41Qd8=",
+  "Source": "ProcurementAPI",
+  "BasePath": "_content/ProcurementAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
